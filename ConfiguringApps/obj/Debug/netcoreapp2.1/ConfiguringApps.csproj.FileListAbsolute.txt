@@ -2,7 +2,6 @@ C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.1\ConfiguringApps.runtimeconfig.json
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.1\ConfiguringApps.runtimeconfig.dev.json
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.1\ConfiguringApps.dll
-C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.csprojAssemblyReference.cache
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.csproj.CoreCompileInputs.cache
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.RazorAssemblyInfo.cache
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.RazorAssemblyInfo.cs
@@ -22,3 +21,4 @@ C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.Views.pdb
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.csproj.CopyComplete
 C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\kudin\source\repos\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.1\ConfiguringApps.csprojAssemblyReference.cache

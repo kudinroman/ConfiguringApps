@@ -1,10 +1,16 @@
 ﻿@model Dictionary<string, string>
-@{ Layout = null; }
+
+@{
+    Layout = null;
+}
+
 <!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <link asp-href-include="lib/bootstrap/dist/css/*.min.css" rel="stylesheet" />
+    @*<link asp-href-include="lib/bootstrap/dist/css/*.min.css" rel="stylesheet" />*@
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css" />
+    @*<link rel="stylesheet" href="../node_modules/fontawesome/css/*.css" />*@
     <title>Result</title>
 </head>
 <body class="p-1">
@@ -13,6 +19,29 @@
         {
             <tr><th>@kvp.Key</th><td>@kvp.Value</td></tr>
         }
+    </table>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Quantity</th>
+                <th>Item</th>
+                <th class="text-right">Price</th>
+                <th class="text-right">Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="text-center">1</td>
+                <td class="text-left">2</td>
+                <td class="text-right">3</td>
+                <td class="text-right">
+                    4
+                </td>
+                <td>
+                    5
+                </td>
+            </tr>
+        </tbody>
     </table>
 </body>
 </html>
